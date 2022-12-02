@@ -1,3 +1,3 @@
 # BDP_project
-OTTO - Multi - Objective - Recommender - System
-\n Bigdata Programming Term Project
+* Bigdata Programming Term Project
+  * OTTO - Multi - Objective - Recommender - System
