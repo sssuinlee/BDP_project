@@ -3,5 +3,5 @@
   * OTTO - Multi - Objective - Recommender - System
   
 * (Kaggle) OTTO Recommender Systems Dataset
- * {‘session’, ‘events’ : [‘aid’, ‘ts’, ‘type’] }
+  * {‘session’, ‘events’ : [‘aid’, ‘ts’, ‘type’] }
  
