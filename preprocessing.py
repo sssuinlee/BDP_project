@@ -16,4 +16,4 @@ if __name__ == "__main__":
 	train_data = train_data.drop(col("time_stamp"))
 
 	# parquet 형태로 hdfs에 저장
-	train_data.write.parquet("hdfs:///user/maria_dev/otto-recommender-system/train_data.parquet")
+	train_data.write.parquet("hdfs:///user/maria_dev/otto-recommender-system/train.parquet")
